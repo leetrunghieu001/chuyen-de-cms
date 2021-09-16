@@ -1,1 +1,1 @@
-week1.txt thuoc branch week1
+week1.txt thuoc branch week1 lam cho loi ne
